@@ -6,7 +6,7 @@
   "author": "Mya",
   "license": "ISC",
   "bin": {
-    "hscli": "bin/hscli.js"
+    "hs-cli": "bin/hscli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
